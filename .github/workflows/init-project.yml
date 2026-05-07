@@ -1,5 +1,8 @@
 name: Initialize Project
 
+permissions:
+  contents: write
+
 on:
   push:
     branches:
