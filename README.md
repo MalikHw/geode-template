@@ -1,4 +1,5 @@
-GEODE-PROJECT-NAME
+![geode](https://img.shields.io/github/downloads/GEODE-AUTHOR-NAME/GEODE-PROJECT-NAME/total?logo=geode&color=8D7ACF)
+
 
 <a href="https://www.star-history.com/?repos=GEODE-AUTHOR-NAME%2FGEODE-PROJECT-NAME&type=date&legend=top-left">
  <picture>
